@@ -1,0 +1,3 @@
+{
+  "/(routes)/pago/page": "app/(routes)/pago/page.js"
+}

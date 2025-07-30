@@ -1,0 +1,25 @@
+/* [project]/app/simpson_f827354b.module.css [app-client] (css) */
+@font-face {
+  font-family: simpson;
+  src: url("../media/Simpsonfont-s.p.fd2e2116.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: simpson Fallback;
+  src: local(Arial);
+  ascent-override: 70.96%;
+  descent-override: 17.63%;
+  line-gap-override: 0.0%;
+  size-adjust: 113.44%;
+}
+
+.simpson_f827354b-module__BmUsBq__className {
+  font-family: simpson, simpson Fallback;
+}
+
+.simpson_f827354b-module__BmUsBq__variable {
+  --font-simpson: "simpson", "simpson Fallback";
+}
+
+/*# sourceMappingURL=app_simpson_f827354b_module_b52d8e88.css.map*/

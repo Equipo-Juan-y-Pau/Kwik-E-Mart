@@ -1,0 +1,18 @@
+{
+  "/(routes)/login/page": "app/(routes)/login/page.js",
+  "/(routes)/pago/page": "app/(routes)/pago/page.js",
+  "/(routes)/politica/page": "app/(routes)/politica/page.js",
+  "/(routes)/productos/[slug]/page": "app/(routes)/productos/[slug]/page.js",
+  "/(routes)/productos/page": "app/(routes)/productos/page.js",
+  "/(routes)/promociones/page": "app/(routes)/promociones/page.js",
+  "/(routes)/resenas/page": "app/(routes)/resenas/page.js",
+  "/(routes)/seguridad/page": "app/(routes)/seguridad/page.js",
+  "/(routes)/wishlist/page": "app/(routes)/wishlist/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/agregar/page": "app/admin/agregar/page.js",
+  "/admin/asignar/page": "app/admin/asignar/page.js",
+  "/admin/difusiones/page": "app/admin/difusiones/page.js",
+  "/admin/visualizar/page": "app/admin/visualizar/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,67 @@
+{
+  "app": {
+    "[project]/app/(routes)/login/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/pago/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/politica/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/productos/[slug]/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/productos/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/promociones/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/resenas/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/seguridad/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/(routes)/wishlist/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/_not-found/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/admin/agregar/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/admin/asignar/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/admin/difusiones/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/admin/visualizar/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

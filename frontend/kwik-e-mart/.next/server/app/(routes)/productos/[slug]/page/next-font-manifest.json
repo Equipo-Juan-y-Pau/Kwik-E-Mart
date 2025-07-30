@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/(routes)/productos/[slug]/page": [
+      "static/media/Simpsonfont-s.p.fd2e2116.ttf",
+      "static/media/L0x_DF02iFML4hGCyMqlbS1miXK2-s.p.b88a81e7.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}
